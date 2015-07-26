@@ -1,7 +1,7 @@
 # RabbitMQ Tutorial
 
 
-Tutorial 1
+Tutorial One - Producer > Consumer
 ----------
 
 ```
